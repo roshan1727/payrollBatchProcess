@@ -1,0 +1,198 @@
+{
+    "resources": [
+        {
+            "name": "view/doi_header_add.fragment.xml"
+        },
+        {
+            "name": "controller/collective_doi.controller.js"
+        },
+        {
+            "name": "revenue_data.json"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "controller/venture.controller.js"
+        },
+        {
+            "name": "controller/revenue_header.controller.js"
+        },
+        {
+            "name": "controller/payout_position.controller.js"
+        },
+        {
+            "name": "controller/payout.controller.js"
+        },
+        {
+            "name": "controller/owner_details.controller.js"
+        },
+        {
+            "name": "controller/non-operated.controller.js"
+        },
+        {
+            "name": "controller/main.controller.js"
+        },
+        {
+            "name": "controller/jointventure.controller.js"
+        },
+        {
+            "name": "model/provision.json"
+        },
+        {
+            "name": "controller/business_associate.controller.js"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "manifest-bundle.zip"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "model/models-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/venture-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/revenue_header-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/payout_position-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/payout-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/owner_details-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/non-operated-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/main-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/jointventure-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/collective_doi-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/business_associate-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "Component-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../../../sap-ui-version.json"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "di.code-validation.core_issues.json"
+        },
+        {
+            "name": "view/venture_filter.fragment.xml"
+        },
+        {
+            "name": "view/venture.view.xml"
+        },
+        {
+            "name": "view/revenue_header.view.xml"
+        },
+        {
+            "name": "view/payout_provisions.fragment.xml"
+        },
+        {
+            "name": "view/payout_position.view.xml"
+        },
+        {
+            "name": "view/payout_costcenter.fragment.xml"
+        },
+        {
+            "name": "view/payout_baladj.fragment.xml"
+        },
+        {
+            "name": "view/payout_add.fragment.xml"
+        },
+        {
+            "name": "view/payout.view.xml"
+        },
+        {
+            "name": "view/owner_details.view.xml"
+        },
+        {
+            "name": "view/non-operated_balance_upload.fragment.xml"
+        },
+        {
+            "name": "view/non-operated_balance.fragment.xml"
+        },
+        {
+            "name": "view/non-operated.view.xml"
+        },
+        {
+            "name": "view/main.view.xml"
+        },
+        {
+            "name": "view/jointventure_interest.fragment.xml"
+        },
+        {
+            "name": "view/jointventure.view.xml"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "view/collective_doi_market_free.fragment.xml"
+        },
+        {
+            "name": "view/collective_doi_header_add.fragment.xml"
+        },
+        {
+            "name": "view/collective_doi_filter.fragment.xml"
+        },
+        {
+            "name": "view/collective_doi_comments.fragment.xml"
+        },
+        {
+            "name": "view/collective_doi_bearer_group.fragment.xml"
+        },
+        {
+            "name": "view/collective_doi.view.xml"
+        },
+        {
+            "name": "view/business_associate.view.xml"
+        },
+        {
+            "name": "localService/metadata.xml"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "index.html"
+        }
+    ]
+}
